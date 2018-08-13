@@ -1,0 +1,7 @@
+TESTING the Velocity Maven Plugin
+---------------------------------
+
+test.property            : $testProperty
+properties.property      : $propertiesProperty
+plugin.property          : $pluginProperty
+environment.property     : $project.build.directory
