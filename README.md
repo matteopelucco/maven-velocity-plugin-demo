@@ -1,0 +1,1 @@
+# maven-velocity-plugin-demo
